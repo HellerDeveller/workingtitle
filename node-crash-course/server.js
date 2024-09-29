@@ -61,3 +61,7 @@ server.listen(3000, 'localhost', () => {
 //if nothing changes, save this page, ctrl + c on terminal and do node server again
 //try nodemon server !...is what I would say if it didn't get errors
 //npm init
+
+//before starting, look at the dependencies under package.json and open
+//the terminal and enter 'npm i __' __ = each dependency
+//this is assuming you're doing this in Visual Studio Code...
